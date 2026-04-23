@@ -1,7 +1,7 @@
  <h1 align="center">BEM VINDO</h1>
 Meu nome é Alexandre Silva Rocha, tenho 16 anos. Gosto de aprender criando projetos práticos e entender como as coisas funcionam por trás.  
 Tenho interesse tanto em front-end quanto back-end e estou sempre buscando evoluir minhas habilidades.  
-Atualmente focado em melhorar minha lógica, desenvolver projetos próprios e aprofundar meus conhecimentos em C# e JavaScript. Uso com frequência na escola e remotamente o site beecorwd para aprender
+Atualmente focado em melhorar minha lógica, desenvolver projetos próprios e aprofundar meus conhecimentos em C# e JavaScript. Uso com frequência na escola e remotamente o site beecrowd para aprender
 cada vez mais.
 
 ##
