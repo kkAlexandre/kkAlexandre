@@ -24,5 +24,7 @@ alexandre.silva.roc@gmail.com<br/><br/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/azure-sql-db.png" />
+<img align="left" alt="Github" title="GitHub" width="30px" style="padding-right: 10px; filter: invert(1);" src="https://img.icons8.com/ios11/512/FFFFFF/github.png" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
