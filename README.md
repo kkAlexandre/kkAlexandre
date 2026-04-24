@@ -5,7 +5,10 @@ Atualmente focado em melhorar minha lógica, desenvolvendo projetos próprios e 
 cada vez mais.
 
 ##
+
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmMmhmOHduOGFqM3dwZXZyMGZoamkxMGxhejZhMmptYWI2NWNpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hzx9toaSQPHRm/giphy.gif" align="right" height="200" width="350"/>
+
 <h3 align="left">Meus Contatos/contas:</h3>
 
 <a href="https://www.instagram.com/dri_zynn"><img align="left" alt="Instagram" title="Instagram" width="30px" style="padding-right: 10px;" src="https://images.icon-icons.com/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />  @dri_zynn </a> <br/><br/>
