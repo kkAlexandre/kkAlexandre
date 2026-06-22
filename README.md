@@ -15,7 +15,7 @@ cada vez mais.
 <a href="mailto:alexandre.silva.roc@gmail.com"><img align="left" alt="E-mail" title="E-mail" width="30px" style="padding-right: 10px;" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png"/><a/>
 alexandre.silva.roc@gmail.com<br/><br/>
 <a href="https://judge.beecrowd.com/pt/profile/1218011"><img align="left" alt="Beecrowd" title="E-mail" width="30px" style="padding-right: 10px;" src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png"/> kkAlexandre<a/><br/><br/>
-<a href=www.linkedin.com/in/alexandre-silva-rocha><img align="left" alt="Linkedin" title="E-mail" width="30px" style="padding-right: 10px;" src="https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/image.png"/> Alexandre Silva Rocha<a/><br/><br/>
+<a href=https://www.linkedin.com/in/alexandre-silva-rocha><img align="left" alt="Linkedin" title="E-mail" width="30px" style="padding-right: 10px;" src="https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/image.png"/> Alexandre Silva Rocha<a/><br/><br/>
 
 ##
 <h3 align="left">Linguagens e Programas já usados por mim:</h3>
